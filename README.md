@@ -33,7 +33,6 @@ A modern, cross-platform GUI front-end for QEMU virtual machines. Built with Qt6
 ### Built-in Tools
 - **Disk Converter** - Convert between VDI, VMDK, VHD, QCOW2, RAW, OVA
 - **VirtualBox/UTM Import** - Import existing VMs with automatic disk conversion
-- **OSBoxes Integration** - Quick access to pre-built Linux VMs via [osboxes.org](https://osboxes.org/)
 - **ISO Downloader** - Download OS installers directly from official mirrors
 
 ## Requirements

@@ -1,4 +1,4 @@
-# ForgeVM
+# Forge Virtual Machines
 
 A modern, cross-platform GUI front-end for QEMU virtual machines. Built with Qt6 and C++17.
 

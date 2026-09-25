@@ -1,7 +1,7 @@
 # ForgeVM
 
 A modern, cross-platform GUI front-end for QEMU virtual machines. Built with Qt6 and C++17.
-
+(This project is new it may have tons of bugs and also tons of broken stuff so if you happen to find one please add a issue
 ## Features
 
 ### Virtual Machine Management
